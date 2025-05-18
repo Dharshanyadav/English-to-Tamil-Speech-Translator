@@ -95,11 +95,15 @@ The application follows these steps:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- **Deepak G - 715522243013**
+- **Dharshan Yadav DK -715522243015**
+- **Akilesh JS - 715522243015**
+- **Nitesh Kumar NS -715522243034**
+- **Sanjay Sankar J-715522243042**
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the PSGitech License - see the LICENSE file for details.
 
 ## Acknowledgments
 
