@@ -69,7 +69,7 @@ python app.py
    - Translate the English text to Tamil
    - Generate Tamil speech from the translated text
    - Display all outputs in the interface
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Dharshanyadav/English-to-Tamil-Speech-Translator/blob/dfae34226eaa94b99932e154bc13856b115e7090/image_2025-05-18_133206501.png)
 
 ## How It Works
 
