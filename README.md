@@ -11,7 +11,7 @@ A web application that translates spoken English to Tamil speech in real-time us
 
 ## Demo
 
-![English-to-Tamil Speech Translator Demo]([https://via.placeholder.com/800x400?text=Demo+Screenshot](https://github.com/Dharshanyadav/English-to-Tamil-Speech-Translator/blob/cfd0fbd3eef1718408a88eb6cf888952adf9d510/image_2025-05-18_132803978.png))
+![English-to-Tamil Speech Translator Demo](https://github.com/Dharshanyadav/English-to-Tamil-Speech-Translator/blob/cfd0fbd3eef1718408a88eb6cf888952adf9d510/image_2025-05-18_132803978.png)
 
 ## Requirements
 
