@@ -103,7 +103,7 @@ The application follows these steps:
 
 ## License
 
-This project is licensed under the PSGitech License - see the LICENSE file for details.
+This project is licensed under the PSGitech  - see the LICENSE file for details.
 
 ## Acknowledgments
 
