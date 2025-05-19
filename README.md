@@ -29,7 +29,7 @@ cd english-tamil-translator
 2. Create a virtual environment and activate it:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
 ```
 
 3. Install the required packages:
